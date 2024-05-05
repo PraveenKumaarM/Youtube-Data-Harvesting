@@ -1,6 +1,7 @@
 #YouTube Data Harvesting and Warehousing using SQL and Streamlit
-The problem statement is to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels. The application should have the following features:
-Ability to input a YouTube channel ID and retrieve all the relevant data (Channel name, subscribers, total video count, playlist ID, video ID, likes, dislikes,       comments of each video) using Google API.
-Ability to collect data for up to 10 different YouTube channels and store them in the data lake by clicking a button.
-Option to store the data in a MYSQL or PostgreSQL.
-Ability to search and retrieve data from the SQL database using different search options, including joining tables to get channel details.
+Developing a Streamlit application that enables users to see and examine data from various YouTube channels is the stated problem. The following features ought to be present in the application:
+1. The ability to use the Google API to input a YouTube channel ID and obtain all pertinent information (including the channel name, subscribers, total number of videos, playlist ID, video ID, likes, dislikes, and comments for each video).
+2. The option to gather information from up to ten distinct YouTube channels and save it in the data lake with a single button click.
+3. The choice of using PostgreSQL or MySQL to store the data.
+4. The ability to use various search parameters, such as combining tables to obtain channel details, to search and retrieve data from the SQL database.
+
